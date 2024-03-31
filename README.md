@@ -1,0 +1,1 @@
+# Program-to-check-if-the-number-is-even-or-odd-without-using-if-else-
